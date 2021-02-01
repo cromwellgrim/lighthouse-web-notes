@@ -2,4 +2,4 @@
 
 ## SUMMARY
 
-This repo contains all of the notes taken by Dylan for the Lighthouse Labs Web Development Boot Camp.
+This repo contains all of the notes taken by [Dylan](https://github.com/cromwellgrim) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Boot Camp.
